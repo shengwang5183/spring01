@@ -8,5 +8,6 @@ package cn.gdpu.service;
 public class UserService {
     public void test(){
         System.out.println("userService....");
+        System.out.println("hello");
     }
 }
